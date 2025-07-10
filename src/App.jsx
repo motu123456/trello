@@ -112,7 +112,7 @@ function App() {
       <div className="main-container">
         <div className="sub-container">
 
-          <h1 className="title">カンバンボード</h1>
+          <h1 className="title">カンバン</h1>
           
           {/* タスクを追加する領域 */}
           <div className="add-task-container">
